@@ -1,0 +1,116 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* ROOT */
+:root {
+  /* RESIZE */
+  font-size: 6.25%;
+
+  /* FONTS */
+  /* font-family: 'Inter', sans-serif; */
+  /* font-family: 'Roboto Mono', monospace; */
+}
+
+body {
+  background-color: #09090A;
+  color: #FFF;
+
+  height: 100vh;
+}
+
+header {
+  padding: 100rem 120rem 0;
+  margin-bottom: 48rem;
+
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  position: fixed;
+}
+
+button {
+  font-family: 'Inter', sans-serif;
+  font-size: 16rem;
+  color: #FFF;
+  line-height: 125%;
+
+  background-color: transparent;
+
+  padding: 16rem 24rem;
+  border: 1px solid #8B5CF6;
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  gap: 12rem;
+}
+
+form {
+  padding: 231rem 120rem 0;
+
+  width: fit-content;
+
+  display: flex;
+  gap: 32rem;
+}
+
+.habits {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  gap: 24rem;
+}
+
+.habits .habit {
+  font-size: 32px;
+  line-height: 64px;
+}
+
+.days {
+  display: flex;
+  gap: 48rem;
+}
+
+.days .day {
+  display: flex;
+  flex-direction: column;
+  gap: 24rem;
+}
+
+.days .day div {
+  font-family: 'Roboto Mono';
+  font-size: 20rem;
+  color: #A1A1AA;
+  line-height: 125%;
+
+  margin-bottom: 8rem;
+}
+
+.days .day input {
+  background: #18181B;
+
+  border: 2px solid #27272A;
+  border-radius: 8px;
+
+  width: 64rem;
+  height: 64rem;
+
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.days .day input:checked {
+  background: #8B5CF6;
+
+  border: 2px solid #A78BFA;
+}
