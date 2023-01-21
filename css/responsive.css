@@ -1,0 +1,53 @@
+@media (max-width: 400px){
+  header,form{
+    padding-left: 35rem;
+    padding-right: 35rem; 
+  }
+}
+
+@media (min-width: 401px) and (max-width: 480px){
+  header,form{
+    padding-left: 60rem;
+    padding-right: 60rem; 
+  }
+}
+
+@media (min-width: 481px) and (max-width: 580px){
+  header,form{
+    padding-left: 90rem;
+    padding-right: 90rem; 
+  }
+
+  header{
+    padding-top: 60rem;
+  }
+
+  form{
+    padding-top: 192rem;
+    gap: 24rem;
+  }
+
+  .habits .habit {
+    font-size: 24rem;
+    line-height: 50px;
+  }
+
+  .days {
+    gap: 24rem;
+  }
+
+  .days .day div{
+    font-size: 16rem;
+  }
+
+  .days .day input{
+    width: 50rem;
+    height: 50rem;
+  }
+}
+
+@media (max-width: 768px){
+  button div{
+    display: none;
+  }
+}

@@ -24,10 +24,12 @@ body {
 }
 
 header {
+  background-color: #09090A;
+
   padding: 100rem 120rem 0;
   margin-bottom: 48rem;
 
-  width: 100%;
+  width: 100vw;
 
   display: flex;
   justify-content: space-between;
@@ -71,7 +73,7 @@ form {
 }
 
 .habits .habit {
-  font-size: 32px;
+  font-size: 32rem;
   line-height: 64px;
 }
 
