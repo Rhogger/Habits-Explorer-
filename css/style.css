@@ -20,6 +20,7 @@ body {
   background-color: #09090A;
   color: #FFF;
 
+  width: 100vw;
   height: 100vh;
 }
 
@@ -29,7 +30,7 @@ header {
   padding: 100rem 120rem 0;
   margin-bottom: 48rem;
 
-  width: 100vw;
+  width: 100%;
 
   display: flex;
   justify-content: space-between;
