@@ -32,7 +32,7 @@
 
 ## 💻 Projeto <a name = "projeto"></a>
 
-Esse projeto foi feito durante a NLW Setup da Rocketseat, em sua 11° edição, onde desenvolvemos um website que faz o controle de hábitos.
+Esse projeto foi feito durante a NLW Setup da Rocketseat na trilha Explorer, em sua 11° edição, onde desenvolvemos um website que faz o controle de hábitos.
 
 <br>
 <br>
