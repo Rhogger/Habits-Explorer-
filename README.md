@@ -6,10 +6,8 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Tecnologias](#tecnologias)
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [Preview](#preview)
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Layout](#layout)
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Licença](#license)
 
 </div>
